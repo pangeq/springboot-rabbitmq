@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="694beef9-f9e1-4195-becb-65321416d256" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-consumer/src/main/java/com/pangeq/RabbitmqConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-producer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-producer/src/main/java/com/pangeq/RabbitmqProducerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-producer/src/main/java/com/pangeq/config/DirectRabbitConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-producer/src/main/java/com/pangeq/controller/SendMessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-order-producer/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="694beef9-f9e1-4195-becb-65321416d256" name="Changes" comment="rabbitmq" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,6 +109,14 @@
       <updated>1655966707453</updated>
       <workItem from="1655966708827" duration="2349000" />
     </task>
+    <task id="LOCAL-00001" summary="rabbitmq">
+      <created>1655974086777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655974086777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +132,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rabbitmq" />
+    <option name="LAST_COMMIT_MESSAGE" value="rabbitmq" />
   </component>
 </project>
